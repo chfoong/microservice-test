@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": "180dc290-4cb4-11e9-b639-e5b00b160b18",
+      "name": "The Mythical Man-Month",
+      "price": 19.98
+    },
+    {
+      "id": "d4330080-4cb3-11e9-b45e-5db1e416a269",
+      "name": "The Cathedral & the Bazaar",
+      "price": 10.99
+    },
+    {
+      "id": "bd9227c0-4cb3-11e9-a21a-1d87e0111a57",
+      "name": "Peopleware: Productive Projects and Teams",
+      "price": 27.16
+    },
+    {
+      "id": "b4d22a40-4cb3-11e9-942e-e99c0b3f8b46",
+      "name": "Refactoring: Improving the Design of Existing Code",
+      "price": 38.39
+    }
+  ]
+}
